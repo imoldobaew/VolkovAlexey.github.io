@@ -8,16 +8,16 @@ Cтудент группы ИДБ-17-06 Волков А.С.
 
 IDF0 диаграмма.
 
-![A]()
+![A](https://github.com/alexvolk228/VolkovAlexey/blob/master/lab1/01_A-0.png)
 
 Конструктор должен собрать велосипед в соответствии с планом, пользуясь деталями и инструментами. 
 Ссылки на доп.материалы
 
 Диаграмма классов.
 
-![A]()
+![A](https://github.com/alexvolk228/VolkovAlexey/blob/master/lab1/uml-class.png)
 
 
 Диаграмма прецедентов. 
 
-![A]()
+![A](https://github.com/alexvolk228/VolkovAlexey/blob/master/lab1/uml-preced.png)
