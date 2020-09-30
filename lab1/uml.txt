@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Сборщик" as P {
+ Инструмент 
+ Собрать (Деталь, План) -> Велосипед
+}
+hide circle
+@enduml
