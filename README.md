@@ -26,10 +26,10 @@ IDF0 диаграмма:
 На диаграмме изображён процесс сборки велосипеда. 
 
 Контекстная IDF0 диаграмма:
-![A](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/lab2/idf0_1.png?raw=true)
+![A](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/lab2/idf01.png?raw=true)
 
 Подуровень IDF0 диаграммы:
-![A](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/lab2/idf0_2.png?raw=true)
+![A](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/lab2/idf02.png?raw=true)
 
 A1 Отдел качества получает на вход детали. На выходе получаются детали, соответствующие стандартам.
 
@@ -40,7 +40,7 @@ A3 Определившись с датой и сроком сборки сбо�
 A4 Получив собранный велосипед механик настраивает переключатели. На выходе получается готовый к эксплуатации велосипед.
 
 DFD диаграмма:
-![A](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/lab2/dfd.png?raw=true)
+![A](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/lab2/dfd_1.png?raw=true)
 
 Сборщик получает детали, соответствующие стандартам, и формирует заказ в БД.
 
