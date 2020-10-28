@@ -52,12 +52,16 @@ DFD диаграмма:
 
 Диаграмма последовательности
 
-[Текст]() и [рисунок]() диаграммы последовательности
+[Текст](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/lab3/diag_posled.txt) и [рисунок](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/lab3/diagr_posled_png.png?raw=true) диаграммы последовательности. 
+
+![A](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/lab3/diagr_posled_png.png?raw=true)
 
 Менеджер создаёт полный заказ (с датой, описанием и сроком сборки) сборщику через веб-приложение, а сборщик через интерфейс веб-приложения на своей строне принимает заказ.
 
 ER-диаграмма
 
-[Текст]() и [рисунок]() диаграммы классов
+[Текст](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/lab3/diag_class.txt) и [рисунок](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/lab3/diag_class_png.png?raw=true) диаграммы классов. 
+
+![A](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/lab3/diag_class_png.png?raw=true)
 
 Заказ - это запись в базе данных, которая относится к информационным потокам, и состоит из: даты, описания, срока сборки.
