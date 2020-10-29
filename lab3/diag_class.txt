@@ -11,15 +11,15 @@ class Data as "Запись в базе данных"
 
 class Order as "Заказ"
 
-class Address as "Дата"
+class Data as "Дата"
 class Description as "Описание"
-class Datetime as "Срок сборки"
+class Limit as "Срок сборки"
 
 ControlInfo <|-- Data 
 Data <|-- Order
-Order *-- Address
+Order *-- Data
 Order *-- Description
-Order *-- Datetime
+Order *-- Limit
 
 hide members
 hide circle
