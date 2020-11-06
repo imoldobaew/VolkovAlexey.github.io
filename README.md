@@ -1,4 +1,4 @@
-# [ИДБ-17-06](https://github.com/stankin/design-part-1/wiki/list-idb-17-06) Волков Алексей
+# [ИДБ-17-06](https://github.com/stankin/design-part-1/wiki/list-idb-17-06) Молдобаев Исламбек
 
 ## Домашнее задание по [семинару 1](https://github.com/stankin/design-part-1/wiki/sem1), [семинару 2](https://github.com/stankin/design-part-1/wiki/sem2)
 
